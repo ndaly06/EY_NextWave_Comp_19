@@ -1,2 +1,6 @@
 # ignores the data folder
 data
+
+.vscode
+.DS_Store
+.ipynb_checkpoints
