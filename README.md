@@ -7,4 +7,4 @@ A deep learning approach was taken by utilising a pre-trained PyTorch-based mult
 The tabular learner was fine-tuned on the cleaned and pre-processed training data. By modifying the learning rate, layer count and dropout hyper-parameters, a validation accuracy of 93.068% was achieved.
 
 ## Outcome
-The outcome was a 9th place finish in United Kingdom out of a large field with team-mate Eoin Murnaghan.
+The outcome was a 9th place finish in United Kingdom out of a large field with team-mate [Eoin Murnaghan](https://github.com/emurnaghan01).
